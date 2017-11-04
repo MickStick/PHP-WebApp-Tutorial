@@ -1,0 +1,16 @@
+.routes {
+    list-style-type: none;
+}
+
+.route-item {
+    display: inline;
+}
+
+.route {
+    text-decoration: none;
+    color: #333333;
+}
+
+body {
+    background: pink;
+}
